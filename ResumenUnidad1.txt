@@ -1,0 +1,4 @@
+Resumen - Unidad I
+La unidad uno estuvo relacionada con los números binarios (para las máquinas) y los números decimales (para los humanos), como convertir números Decimal a Binario y viceversa utilizando la potencia de 2, también la utilización del Código ASCII para la correcta conversión de caracteres. 
+
+Las proposiciones lógicas y los conceptos de conjunción, disyunción y negación. La creación de algoritmos para implementarlos de tal forma que la computadora entienda y pueda interpretarlos en un programa.

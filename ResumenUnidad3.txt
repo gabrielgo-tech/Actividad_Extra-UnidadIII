@@ -1,0 +1,4 @@
+Resumen - Unidad III
+La unidad tres fue sobre los controladores de versiones y el uso ordenado de repositorios para llevar el control de los cambios realizados, GIT es la herramienta que se instala en la computadora y que lleva el historial en mi computadora, y GITHUB es la plataforma en la nube para compartir el trabajo.
+
+La función de Branches es muy importante para enviar versiones que nos permitan trabajar sin modificar la versión original, esto también ayuda al trabajo remoto ya que varios pueden hacer cambios utilizando el mismo proyecto y que haya alguien designado para aprobar los cambios, también hay que tener en cuenta que el orden inicia desde la versión del programa que se está utilizando para maximizar la compatibilidad.

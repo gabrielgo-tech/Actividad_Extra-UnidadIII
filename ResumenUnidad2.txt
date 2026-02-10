@@ -1,0 +1,6 @@
+Resumen - Unidad II
+La unidad dos estuvo más enfocada en la utilización de variables para realizar algoritmos que utilizan matemáticas para resolver problemas o agrupar resultados de un tema en específico como el caso de la fecha de nacimiento para confirmar el signo zodiacal.
+
+La utilización de estructuras de control de flujo para JavaScript te enseña qué opciones tienes para hacer que tu algoritmo te de los resultados deseados. Según mi investigación adicional puedo ver que  se dividen en las siguientes categorías 1. Condicionales (Toma de Decisiones) 2. Bucles o Ciclos (Iteración) 3. Control de Saltos (Interrupción) 4. Manejo de Errores (Excepciones)
+
+Este tema en general me tomó un poco de tiempo entenderlo, y creo que tengo que practicar mucho para poder sentirme más cómodo escribiendo código. Me gustó mucho poder ver los resultados e ir cambiando el algoritmo para mejorar su funcionamiento y orden. 
