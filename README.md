@@ -1,1 +1,1 @@
-# Actividad_Extra-UnidadIII
+Elegí la licencia MIT porque únicamente requiere créditos al autor para ser utilizada y te quita obligaciones por el uso del código o problemas que pueda causar. En fin es una licencia simple y directa y que fomenta la utilización de código libre que pueda ser beneficioso para todos.
